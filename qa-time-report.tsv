@@ -1,8 +1,8 @@
 Source File	Size	loadResources	load	generateSnapshots	load-configure	scan	loadDepInfo	loadInfo	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
-/fsh-generated/resources/ImplementationGuide-fhir.education.kursig.json	2248	-	0	0	0	0	0	0	10	163	0	0	0	0	0	0	0	0	0	0	60	64	0	0	0	1	0	1
-fsh-generated/resources/Patient-patient-tolvan.json	494	3	0	0	1	0	0	0	0	237	0	0	0	0	0	0	0	0	0	0	6	11	0	0	0	0	0	0
-fsh-generated/resources/StructureDefinition-EducationEncounter.json	851	2	0	77	0	0	0	0	1	730	0	0	1	0	0	0	0	3	0	0	233	1017	0	0	0	8	0	1
-fsh-generated/resources/StructureDefinition-EducationPatient.json	1596	1	0	62	0	0	0	0	0	39	0	0	0	0	0	0	0	1	0	0	206	372	0	0	0	8	0	1
+/fsh-generated/resources/ImplementationGuide-fhir.education.kursig.json	2248	-	0	0	0	0	0	0	15	78	0	0	0	0	0	0	0	0	0	0	67	61	0	0	0	2	0	0
+fsh-generated/resources/Patient-patient-tolvan.json	494	3	0	0	1	0	0	0	0	296	0	0	0	0	0	0	0	0	0	0	6	13	0	0	0	0	0	0
+fsh-generated/resources/StructureDefinition-EducationEncounter.json	851	2	0	81	0	0	0	0	1	268	0	0	1	0	0	0	0	2	0	0	227	1477	0	0	0	8	1	1
+fsh-generated/resources/StructureDefinition-EducationPatient.json	1596	2	0	64	1	0	0	0	0	38	0	0	0	0	0	0	0	1	0	0	196	450	0	0	0	8	0	1
 /fsh-generated/includes/menu.xml	1043	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 /fsh-generated/includes/fsh-link-references.md	173	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 /input/pagecontent/index.md	1096	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
